@@ -1,0 +1,35 @@
+version: '2.0'
+
+services:
+
+  web:
+    container_name: todo-web
+    build: ./web-todo-app
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./web-todo-app:/home/client
+      - /home/client/node_modules
+    depends_on:
+      - api
+
+  api:
+    container_name: todo-api
+    build: ./todo-app-api
+    ports:
+      - "3003:3003"
+    volumes:
+      - ./todo-app-api:/home/api
+      - /home/api/node_modules
+    depends_on:
+      - database
+
+  database:
+    image: postgres:latest
+    container_name: todo-db
+    environment:
+      POSTGRES_DB: todo-app
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 123456789
+    ports:
+      - "5444:5432"

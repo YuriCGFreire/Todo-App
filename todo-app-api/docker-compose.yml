@@ -1,0 +1,20 @@
+version: '2.0'
+
+services: 
+  api:
+    container_name: todo-api
+    build: .
+    ports: 
+      - "3003:3003"
+    volumes: 
+      - .:/home/api
+      - /home/api/node_modules
+  database:
+    image: postgres:latest
+    container_name: todo-db
+    environment:
+      POSTGRES_DB: todo-app
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 123456789
+    ports:
+    - "5444:5432"
