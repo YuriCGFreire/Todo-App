@@ -1,4 +1,4 @@
-# Next-Project
+# TodoApp
 
 ## Linguagens, tecnologias e ferramentas utilizadas
 
