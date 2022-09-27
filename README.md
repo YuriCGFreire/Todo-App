@@ -56,3 +56,9 @@ Logo após isso, basta conferir o projeto em http://localhost:3000.
 
 ## Frontend
 
+Home da aplicação, onde serão listadas as tasks 
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/82773177/192561032-e8fed023-fc5b-41b4-9ef4-8dfc86886e7d.jpg"/>
+<div>
+
