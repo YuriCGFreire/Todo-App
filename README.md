@@ -20,8 +20,8 @@
 
 ## Escopo do projeto
 
-O *Next-Project* é um projeto para fins ditáticos, aprendizado de Reactjs, NextJs e Docker. Consiste em um simples CRUD de usuário, o qual pode 
-fazer cadastro, login, atualizar seus dados e excluir sua conta.
+O *TodoApp* é um projeto para fins ditáticos, aprendizado de Reactjs e Docker. Consiste em um simples CRUD de tasks, o qual você pode criar,
+atualizar, exlcuir e concluir as tasks.
 
 <br>
 
@@ -60,17 +60,17 @@ A documentação do backend foi feita com swagger e para conferir basta acessar 
 
 ## Frontend
 
-Adicionar uma nova task:
+- Adicionar uma nova task:
 Basta digitar no input qual a nova task que você quer adicionar e depois clicar em adicionar
 
-Atualizar task:
+- Atualizar task:
 Para atualizar uma nova task, é preciso clicar na task, que irá abrir um modal onde você pode escrever no input a nova task
 clicar em atualizar ou clicar em cancelar, caso mude de ideia
 
-Excluir task: 
+- Excluir task: 
 Ao clicar no icone de lixo ao lado da task você irá exclui-la
 
-Concluir task: 
+- Concluir task: 
 Ao clicar na checkbox do lado esquerdo da task, você irá conclui-la
 
 ##
