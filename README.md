@@ -56,7 +56,7 @@ Logo após isso, basta conferir o projeto na sua porta local 3000.
 ##
 
 ## Backend
-A documentação do backend foi feita com swagger e para conferir basta acessar o endpoint [3003/api](http://localhost:3003/api/)
+A documentação do backend foi feita com swagger e para conferir basta, rodar a api e acessar o endpoint [3003/api](http://localhost:3003/api/)
 
 ## Frontend
 
