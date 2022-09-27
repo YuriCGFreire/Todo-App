@@ -76,6 +76,7 @@ Ao clicar na checkbox do lado esquerdo da task, você irá conclui-la
   <img src="https://user-images.githubusercontent.com/82773177/192562699-ab59e352-84d4-445a-983a-6346074b9226.jpg"/>
 <div>
   
+##
 <div align="center">
   Modal para atualizar task
   <img src="https://user-images.githubusercontent.com/82773177/192564280-79d625d3-091e-4e05-9eb8-35afe3fafff2.jpg"/>
