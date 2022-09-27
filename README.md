@@ -59,6 +59,6 @@ Logo após isso, basta conferir o projeto em http://localhost:3000.
 Home da aplicação, onde serão listadas as tasks 
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/82773177/192561032-e8fed023-fc5b-41b4-9ef4-8dfc86886e7d.jpg"/>
+  <img src="https://user-images.githubusercontent.com/82773177/192562699-ab59e352-84d4-445a-983a-6346074b9226.jpg"/>
 <div>
 
