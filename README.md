@@ -52,7 +52,8 @@ Será feita a instalação das dependencias e depois rode o comando
 ```
 npm start
 ```
-Logo após isso, basta conferir o projeto em http://localhost:3000.
+Logo após isso, basta conferir o projeto na sua porta local 3000.
+##
 
 ## Frontend
 
