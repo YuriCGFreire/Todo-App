@@ -20,10 +20,6 @@ export default function TodoEditDialog({ open, dialogHandler, todo, updateTodo }
         dialogHandler()
     }
 
-    // const handleClose = () => {
-    //     setOpen(false);
-    // };
-
     return (
         <Dialog
             open={open}
