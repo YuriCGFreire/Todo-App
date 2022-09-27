@@ -70,6 +70,7 @@ Ao clicar no icone de lixo ao lado da task você irá exclui-la
 Concluir task: 
 Ao clicar na checkbox do lado esquerdo da task, você irá conclui-la
 
+##
 <div align="center">
   Home da aplicação, onde serão listadas as tasks 
   <img src="https://user-images.githubusercontent.com/82773177/192562699-ab59e352-84d4-445a-983a-6346074b9226.jpg"/>
